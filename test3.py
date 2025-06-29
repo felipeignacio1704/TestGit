@@ -1,1 +1,1 @@
-creado en github
+print("creado en github")
