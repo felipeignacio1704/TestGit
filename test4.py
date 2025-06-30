@@ -11,5 +11,12 @@ def resta( a,  b):
 def multiplicar( a,  b):
     resultado = a * b
     return resultado
+
+def dividir(a, b):
+    if b == 0:
+        return "Error: No se puede dividir por cero."
+    else:
+        resultado = a / b
+        return resultado
     
 
