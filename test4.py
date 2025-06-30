@@ -4,8 +4,12 @@ def suma( a,  b):
     resultado = a + b
     return resultado
 
+def resta( a,  b):
+    resultado = a - b
+    return resultado
+
 a =int(input("Inserta un numero: "))
 b =int(input("Inserta un numero: "))
 print(suma(a,b))
     
-print("Generando cambios desde nube")
+
